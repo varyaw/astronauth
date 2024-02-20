@@ -1,2 +1,5 @@
-
-div{color: white; background-color: blsck;}
+div {
+  color: white;
+  background-color: black;
+  background-image: image(https://www.independent.co.uk/news/science/do-you-have-what-it-takes-to-be-a-nasa-astronaut-a6730171.html);
+}
